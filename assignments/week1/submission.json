@@ -2,13 +2,13 @@
     "assignment_name": "Assignment 1",
     "contributors": [
         {
-            "name": "Jordan Matelsky",
-            "pennkey": "matelsky"
+            "name": "Melanie Segado",
+            "pennkey": "msegado"
         }
     ],
     "sources": [
-        "https://example.com",
-        "Conversations with TA (include TA's name)",
-        "LLM (include information about the LLM and how it was used)"
+        "https://towardsdatascience.com/linear-regression-and-gradient-descent-using-only-numpy-53104a834f75",
+        "W2D1 CIS522 workbook",
+        "ChatGPT for pair-programming style debugging"
     ]
 }
