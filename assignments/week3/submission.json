@@ -2,13 +2,13 @@
     "assignment_name": "MLP",
     "contributors": [
         {
-            "name": "Jordan Matelsky",
-            "pennkey": "matelsky"
+            "name": "Melanie Segado",
+            "pennkey": "msegado"
         }
     ],
     "sources": [
-        "https://example.com",
-        "Conversations with TA (include TA's name)",
-        "LLM (include information about the LLM and how it was used)"
+        "Github copilot",
+        "PyTorch documentation",
+        "https://www.reddit.com/r/learnpython/comments/r5b7jo/can_anyone_here_explain_self_super_and_init_in/"
     ]
 }
